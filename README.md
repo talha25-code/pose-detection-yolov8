@@ -3,7 +3,7 @@
 This project performs **multi-person human posture detection** and highlights unsafe or risky poses using **YOLOv8-Pose** and **OpenCV**.  
 It was developed and tested on **Google Colab**.
 
-## 🧠 Overview
+## Overview
 The model tracks multiple persons in a video, calculates joint angles (arms, legs, and back), and assigns colors to indicate posture safety:
 - 🟢 **Safe**
 - 🟠 **Satisfactory**
