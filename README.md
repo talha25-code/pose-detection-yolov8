@@ -1,5 +1,3 @@
-# pose-detection-yolov8
-
 # Multi-Person Posture Detection using YOLOv8-Pose
 
 This project performs **multi-person human posture detection** and highlights unsafe or risky poses using **YOLOv8-Pose** and **OpenCV**.  
